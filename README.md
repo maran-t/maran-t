@@ -10,4 +10,4 @@ A Software Developer who loves Programming with the passion of problem-solving, 
 - 🚀 Optimizing Performance & Writing Clean Code
 - 📚 Interview Preparation & DSA – [My Prep Repo](https://github.com/maran-t/interview-prep)
 
-[Task Ease](https://task-ease-454617.appspot.com/)
+Link for [Task Ease](https://task-ease-454617.appspot.com/)
