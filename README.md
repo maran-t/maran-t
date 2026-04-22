@@ -64,7 +64,6 @@ const manimaran = {
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-
 </div>
 
 <br/>
@@ -97,10 +96,6 @@ const manimaran = {
 - 👁️ Tap-to-reveal with timeout  
 - 🧼 Fully offline — nothing leaves your machine  
 
-```bash
-ext install MaranT.the-env-guard
-```
-
 <a href="https://marketplace.visualstudio.com/items?itemName=MaranT.the-env-guard">
   <img src="https://img.shields.io/badge/Install_Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </a>
@@ -124,10 +119,6 @@ ext install MaranT.the-env-guard
 - 🟢 Soft green strings · 🟠 Warm orange types  
 - 🌌 Near-black UI for deep focus  
 
-```bash
-ext install MaranT.m2-theme
-```
-
 <a href="https://marketplace.visualstudio.com/items?itemName=MaranT.m2-theme">
   <img src="https://img.shields.io/badge/Install_Theme-F47067?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </a>
@@ -135,28 +126,6 @@ ext install MaranT.m2-theme
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
-<!-- ============================================= -->
-<!--              FEATURED PROJECTS                -->
-<!-- ============================================= -->
-
-<div align="center">
-
-### 🛠️ Featured Projects
-
-<a href="https://github.com/maran-t/ngx-create">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maran-t&repo=ngx-create&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-</a>
-<a href="https://github.com/maran-t/task-ease">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maran-t&repo=task-ease&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-</a>
-<a href="https://github.com/maran-t/m2-theme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maran-t&repo=m2-theme&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-</a>
 
 </div>
 
@@ -177,24 +146,7 @@ ext install MaranT.m2-theme
 
 <img src="https://streak-stats.demolab.com?user=maran-t&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=maran-t&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
 <br/>
-
-<!-- ============================================= -->
-<!--              CONTRIBUTION GRAPH               -->
-<!-- ============================================= -->
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maran-t&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6" width="100%" />
-
 </div>
 
 <br/>
