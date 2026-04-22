@@ -1,21 +1,55 @@
-<h1 align="center">Hi there, I'm Manimaran T 👋</h1>
+<!-- ============================================= -->
+<!--              HERO / BANNER                    -->
+<!-- ============================================= -->
 
-<p align="center">
-  <b>Software Engineer @ Cognizant · Frontend Developer · Chennai, India</b>
-</p>
+<div align="center">
 
-<p align="center">
-  Crafting clean, performant UIs with <b>Angular</b>, <b>React</b>, and <b>TypeScript</b> — and shipping small developer tools on the side.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manimaran%20T&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20·%20Crafting%20pixel-perfect%20experiences&descAlignY=58&descSize=16" width="100%" />
 
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/publishers/MaranT"><img src="https://img.shields.io/badge/VS%20Code%20Marketplace-MaranT-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Marketplace"/></a>
-  <a href="https://github.com/maran-t"><img src="https://img.shields.io/github/followers/maran-t?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/></a>
-</p>
+<a href="https://maran-t.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Cognizant;Angular+%7C+React+%7C+TypeScript;VS+Code+Extension+Author;Always+shipping%2C+always+learning." alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🧰 Tech Stack
+<a href="https://maran-t.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://marketplace.visualstudio.com/publishers/MaranT"><img src="https://img.shields.io/badge/VS_Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+<a href="https://github.com/maran-t"><img src="https://img.shields.io/github/followers/maran-t?style=for-the-badge&logo=github&labelColor=000&color=8B5CF6" /></a>
+
+</div>
+
+<br/>
+
+<!-- ============================================= -->
+<!--              ABOUT SECTION                    -->
+<!-- ============================================= -->
+
+<div align="center">
+  
+### 👨‍💻 About
+
+</div>
+
+```typescript
+const manimaran = {
+  role:       "Software Engineer @ Cognizant",
+  location:   "Chennai, India  🇮🇳",
+  focus:      ["Angular", "React", "TypeScript"],
+  building:   ["VS Code Extensions", "Developer Tools", "Clean UIs"],
+  currently:  "Exploring Angular Signals & React Server Components",
+  mantra:     "Ship small, ship often, ship with taste.",
+};
+```
+
+<br/>
+
+<!-- ============================================= -->
+<!--              TECH STACK                       -->
+<!-- ============================================= -->
+
+<div align="center">
+
+### ⚡ Tech Arsenal
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -30,66 +64,167 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
 
-### 🚀 Published on the VS Code Marketplace
+</div>
 
-I build small tools to improve the daily dev experience. Both are live — try them out:
+<br/>
 
-#### 🔐 [Env Guard](https://marketplace.visualstudio.com/items?itemName=MaranT.the-env-guard)
-Blur sensitive values in `.env` files during screen-shares, demos, and pair programming. Values stay hidden until you reveal them locally — **no network calls, no telemetry, nothing leaves your machine.**
+<!-- ============================================= -->
+<!--              MARKETPLACE                      -->
+<!-- ============================================= -->
 
-```
+<div align="center">
+
+### 🚀 Live on the VS Code Marketplace
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/visual-studio-marketplace/v/MaranT.the-env-guard?style=flat-square&label=Version&color=8B5CF6" />
+  <img src="https://img.shields.io/visual-studio-marketplace/i/MaranT.the-env-guard?style=flat-square&label=Installs&color=8B5CF6" />
+</div>
+
+### 🔐 Env Guard
+
+> Blur sensitive values in `.env` files during screen-shares, live demos & pair programming. Values reveal on-demand — 100% offline, zero telemetry.
+
+**✨ Key Features**
+- 🔒 Auto-blur `.env` secrets  
+- 👁️ Tap-to-reveal with timeout  
+- 🧼 Fully offline — nothing leaves your machine  
+
+```bash
 ext install MaranT.the-env-guard
 ```
 
-#### 🎨 [M2 Theme](https://marketplace.visualstudio.com/items?itemName=MaranT.m2-theme)
-An ultra-dark VS Code theme inspired by IntelliJ Darcula, with vibrant, eye-friendly syntax colors and full UI coverage — editor, tabs, terminal, git decorations, and semantic highlighting.
+<a href="https://marketplace.visualstudio.com/items?itemName=MaranT.the-env-guard">
+  <img src="https://img.shields.io/badge/Install_Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</a>
 
-```
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/visual-studio-marketplace/v/MaranT.m2-theme?style=flat-square&label=Version&color=F47067" />
+  <img src="https://img.shields.io/visual-studio-marketplace/i/MaranT.m2-theme?style=flat-square&label=Installs&color=F47067" />
+</div>
+
+### 🎨 M2 Theme
+
+> An ultra-dark VS Code theme inspired by IntelliJ Darcula — vibrant, eye-friendly syntax colors with full UI coverage and semantic highlighting.
+
+**🎨 Palette Highlights**
+- 🔴 Coral Red keywords · 💜 Lavender functions  
+- 🟢 Soft green strings · 🟠 Warm orange types  
+- 🌌 Near-black UI for deep focus  
+
+```bash
 ext install MaranT.m2-theme
 ```
 
----
+<a href="https://marketplace.visualstudio.com/items?itemName=MaranT.m2-theme">
+  <img src="https://img.shields.io/badge/Install_Theme-F47067?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</a>
 
-### 🛠️ Things I'm building
+</td>
+</tr>
+</table>
 
-- ⚡ **[ngx-create](https://github.com/maran-t/ngx-create)** — a lightweight CLI to scaffold Angular projects with Material, Tailwind, Bootstrap, or NgRx in one command.
-- ✅ **[TaskEase](https://github.com/maran-t/task-ease)** — a clean, Angular-powered task manager focused on speed and simplicity.
-- 🧩 **VS Code extensions** — shipping small utilities that remove friction from real workflows.
+</div>
 
----
+<br/>
 
-### 📊 GitHub Stats
+<!-- ============================================= -->
+<!--              FEATURED PROJECTS                -->
+<!-- ============================================= -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maran-t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maran-t&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maran-t&theme=tokyonight&hide_border=true" />
-</p>
+### 🛠️ Featured Projects
 
----
+<a href="https://github.com/maran-t/ngx-create">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maran-t&repo=ngx-create&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
+</a>
+<a href="https://github.com/maran-t/task-ease">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maran-t&repo=task-ease&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
+</a>
+<a href="https://github.com/maran-t/m2-theme">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maran-t&repo=m2-theme&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
+</a>
 
-### 🌱 Currently focusing on
+</div>
 
-- Deepening **Angular signals, standalone components, and modern RxJS patterns**
-- Exploring things on **AI features**
-- Publishing more **VS Code extensions** that solve real dev pain points
-- Writing about what I learn
+<br/>
 
----
+<!-- ============================================= -->
+<!--              STATS                            -->
+<!-- ============================================= -->
 
-### 🤝 Let's connect
+<div align="center">
 
-<p>
-  <a href="https://maran-t.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/maran-t"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://marketplace.visualstudio.com/publishers/MaranT"><img src="https://img.shields.io/badge/VS%20Marketplace-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
-</p>
+### 📊 The Numbers
 
-<p align="center">
-  <i>Open to interesting frontend conversations, collaborations, and open-source ideas.</i>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maran-t&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maran-t&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=maran-t&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=maran-t&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+<br/>
+
+<!-- ============================================= -->
+<!--              CONTRIBUTION GRAPH               -->
+<!-- ============================================= -->
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maran-t&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ============================================= -->
+<!--              CONNECT                          -->
+<!-- ============================================= -->
+
+<div align="center">
+
+### 🤝 Let's Build Something
+
+<a href="https://maran-t.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/maran-t">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://marketplace.visualstudio.com/publishers/MaranT">
+  <img src="https://img.shields.io/badge/Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>Open to interesting frontend conversations, collaborations, and open-source ideas.</i>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=maran-t&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
